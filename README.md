@@ -3,8 +3,7 @@
 
 Nothing new, just the hello world of emulation. I've made it to learn how emulation works and to practice more C (nice way to see the importance of bitwise ops). CHIP8 is a fantasy computer with an 8bits CPU, it's not real hardware.  
 
-I encourage you to make one yourself, you will gain a lot of insights of how computer works. Implementing the opcodes was a lot of fun, the ISA wasn't so huge as  
-the one of an x86 8080 8bits proccesor. Perhaps next time i make an NES or Z80 emulator.  
+I encourage you to make one yourself, you will gain a lot of insights of how computer works. Implementing the opcodes was a lot of fun, the ISA wasn't so huge as the one of an x86 8080 8bits proccesor. Perhaps next time i make an NES or Z80 emulator.  
 
 
 # Installation
