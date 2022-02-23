@@ -2,17 +2,21 @@
 ![Chip8](chip8.png)
 
 Nothing new, just the hello world of emulation. I've made it to learn how emulation works and to practice more C (nice way to see the importance of bitwise ops).  
-CHIP8 is a fantasy computer with an 8bits CPU. 
+CHIP8 is a fantasy computer with an 8bits CPU, it's not real hardware.  
+
+I encourage you to make one yourself, you will gain a lot of insights of how computer works. Implementing the opcodes was a lot of fun, the ISA wasn't so huge as  
+the one of an x86 8080 8bits proccesor. Perhaps next time i make an NES or Z80 emulator.  
+
 
 # Installation
 For the graphics i've used `SDL2`, but first i tried just to make a terminal verison with `ncurses` but finally decided not to.  
 Install dependencies with,  
 `$ ./instal.sh`  
 
-Compile with,   
+Compile with,  
 `$ make`  
 
-Run with,
+Run with,  
 `$ ./chip8 ROMS/spaceinvaders.ch8`  
 
 # Portability
